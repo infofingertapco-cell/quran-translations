@@ -4,112 +4,127 @@
     "language": "ar",
     "languageName": "Arabic",
     "author": "King Fahad Quran Complex",
-    "filename": "quran_ar_kingfahadqurancomplex.json"
+    "filename": "quran_ar_kingfahadqurancomplex.json",
+    "version": 1
   },
   {
     "id": "ar_jalal",
     "language": "ar",
     "languageName": "Arabic",
     "author": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
-    "filename": "quran_ar_jalalad-dinal-mahalliandjalalad-dinas-suyuti.json"
+    "filename": "quran_ar_jalalad-dinal-mahalliandjalalad-dinas-suyuti.json",
+    "version": 1
   },
   {
     "id": "bn_mk",
     "language": "bn",
     "languageName": "Bangla",
     "author": "Muhiuddin Khan",
-    "filename": "quran_bn_muhiuddinkhan.json"
+    "filename": "quran_bn_muhiuddinkhan.json",
+    "version": 1
   },
   {
     "id": "bn_zh",
     "language": "bn",
     "languageName": "Bangla",
     "author": "Zohurul Hoque",
-    "filename": "quran_bn_zohurulhoque.json"
+    "filename": "quran_bn_zohurulhoque.json",
+    "version": 1
   },
   {
     "id": "en_saheeh",
     "language": "en",
     "languageName": "English",
     "author": "Saheeh International",
-    "filename": "quran_en_saheehinternational.json"
+    "filename": "quran_en_saheehinternational.json",
+    "version": 1
   },
   {
     "id": "en_yusuf",
     "language": "en",
     "languageName": "English",
     "author": "Abdullah Yusuf Ali",
-    "filename": "quran_en_abdullahyusufali.json"
+    "filename": "quran_en_abdullahyusufali.json",
+    "version": 1
   },
   {
     "id": "es_cortes",
     "language": "es",
     "languageName": "Spanish",
     "author": "Julio Cortes",
-    "filename": "quran_es_juliocortes.json"
+    "filename": "quran_es_juliocortes.json",
+    "version": 1
   },
   {
     "id": "es_muh",
     "language": "es",
     "languageName": "Spanish",
     "author": "Muhammad Isa García",
-    "filename": "quran_es_muhammadisagarcía.json"
+    "filename": "quran_es_muhammadisagarcía.json",
+    "version": 1
   },
   {
     "id": "fr_mh",
     "language": "fr",
     "languageName": "French",
     "author": "Muhammad Hamidullah",
-    "filename": "quran_fr_muhammadhamidullah.json"
+    "filename": "quran_fr_muhammadhamidullah.json",
+    "version": 1
   },
-
   {
     "id": "hi_suhel",
     "language": "hi",
     "languageName": "Hindi",
     "author": "Suhel Farooq Khan and Saifur Rahman Nadwi",
-    "filename": "quran_hi_suhelfarooqkhanandsaifurrahmannadwi.json"
+    "filename": "quran_hi_suhelfarooqkhanandsaifurrahmannadwi.json",
+    "version": 1
   },
   {
     "id": "id_ministry",
     "language": "id",
     "languageName": "Indonesian",
     "author": "Indonesian Ministry of Religious Affairs",
-    "filename": "quran_id_indonesianministryofreligiousaffairs.json"
+    "filename": "quran_id_indonesianministryofreligiousaffairs.json",
+    "version": 1
   },
   {
     "id": "ms_bas",
     "language": "ms",
     "languageName": "Malay",
     "author": "Abdullah Muhammad Basmeih",
-    "filename": "quran_ms_abdullahmuhammadbasmeih.json"
+    "filename": "quran_ms_abdullahmuhammadbasmeih.json",
+    "version": 1
   },
   {
     "id": "tr_diyanet",
     "language": "tr",
     "languageName": "Turkish",
     "author": "Diyanet Isleri",
-    "filename": "quran_tr_diyanetisleri.json"
+    "filename": "quran_tr_diyanetisleri.json",
+    "version": 1
   },
   {
     "id": "tr_elm",
     "language": "tr",
     "languageName": "Turkish",
     "author": "Elmalili Hamdi Yazir",
-    "filename": "quran_tr_elmalilihamdiyazir.json"
+    "filename": "quran_tr_elmalilihamdiyazir.json",
+    "version": 1
   },
   {
     "id": "ur_ali",
     "language": "ur",
     "languageName": "Urdu",
     "author": "Ahmed Ali",
-    "filename": "quran_ur_ahmedali.json"
+    "filename": "quran_ur_ahmedali.json",
+    "version": 1
   },
   {
     "id": "ur_ahmed",
     "language": "ur",
     "languageName": "Urdu",
     "author": "Ahmed Raza Khan",
-    "filename": "quran_ur_ahmedrazakhan.json"
+    "filename": "quran_ur_ahmedrazakhan.json",
+    "version": 1
   }
 ]
